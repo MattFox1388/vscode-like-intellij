@@ -1,0 +1,7 @@
+code --install-extension formulahendry.auto-close-tag
+code --install-extension github.copilot
+code --install-extension github.copilot-chat
+code --install-extension tal7aouy.icons
+code --install-extension tal7aouy.rainbow-bracket
+code --install-extension trinm1709.dracula-theme-from-intellij
+code --install-extension vscodevim.vim
