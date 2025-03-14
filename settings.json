@@ -1,0 +1,13 @@
+{
+    "files.autoSave": "afterDelay",
+    "emmet.triggerExpansionOnTab": true,
+    "editor.quickSuggestionsDelay": 500,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "workbench.editor.enablePreview": false,
+    "editor.wordWrap": "on",
+    "workbench.colorTheme": "Darcula Theme from IntelliJ",
+    "workbench.iconTheme": "icons"
+}
